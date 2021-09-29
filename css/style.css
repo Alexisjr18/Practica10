@@ -1,0 +1,19 @@
+*{
+padding: 0;
+margin: 0;
+}
+article{
+  background-color: rgb(179, 193, 238);
+
+}
+nav{
+  background-color: rgb(51, 52, 52);
+}
+
+body
+{
+    position: relative;
+    background:url(../img/fondo.jpg);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
